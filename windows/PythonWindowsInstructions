@@ -1,0 +1,12 @@
+Install through python exe.
+Install pip through get_pip.py
+python get-pip.py
+python C:\Python27\Tools\Scripts\win_add2path.py - To add pip to path - pip works only if the command prompt is in admin mode.
+install VCForpython27.msi
+pip install pandas
+pip install "ipython[notebook]"
+pip install scipy - works on only those systems which have BLAS,LAPACK and ATLAS libraries(details
+scipy installation details - http://www.scipy.org/scipylib/building/windows.html#blas-lapack-and-atlas
+pip install pyparsing ## prerequisite for matplotlib
+Install matplotlib from exe.
+pip install -U scikit-learn
