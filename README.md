@@ -19,6 +19,9 @@ sudo apt-get install python-matplotlib
 sudo pip install -U scikit-learn
 sudo apt-get install ipython
 sudo apt-get install ipython-notebook
+
+Navigate to the directory "labPython"
+On the command prompt start by typing - ipython notebook
 ```
 
 ###Windows users: 
